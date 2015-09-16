@@ -1,0 +1,2 @@
+# GitRebaseVsMerge
+Analyze merge content
